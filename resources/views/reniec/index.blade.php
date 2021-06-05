@@ -14,7 +14,7 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.3.0/mdb.min.css" rel="stylesheet"/>
 
 <div class="container">
-<h2 class="text-center py-3">Registro Nacional | Examen 1 desde VN Y F</h2>
+<h2 class="text-center py-3">Registro Nacional | Examen 1 from VN win and automate</h2>
 <center>
 <a href="{{ url('/reniecs/create') }}" class="btn btn-primary btn-lg my-4 shadow"  >
 AGREGAR PERSONAS
