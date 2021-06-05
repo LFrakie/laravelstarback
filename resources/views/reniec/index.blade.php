@@ -14,7 +14,7 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.3.0/mdb.min.css" rel="stylesheet"/>
 
 <div class="container">
-<h2 class="text-center py-3">Registro Nacional | Examen 1 </h2>
+<h2 class="text-center py-3">Registro Nacional | Examen 1 from vn</h2>
 <center>
 <a href="{{ url('/reniecs/create') }}" class="btn btn-primary btn-lg my-4 shadow"  >
 AGREGAR PERSONAS
@@ -24,8 +24,7 @@ AGREGAR PERSONAS
 
 <table class="table table-responsive table-hover shadow-lg">
 	<thead class="table-dark bg-primary">
-		<tr>
-			<th>#</th>			
+		<tr> <th>#</th>			
 			<th>NOMBRES</th>			
 			<th>PATERNO</th>
             <th>MATERNO</th>
