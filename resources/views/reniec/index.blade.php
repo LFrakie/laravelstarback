@@ -14,13 +14,14 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.3.0/mdb.min.css" rel="stylesheet"/>
 
 <div class="container">
-<h2 class="text-center py-3">Registro Nacional | Examen 1 from Automatic G1</h2>
+<h2 class="text-center py-3">Registro Nacional | Examen 1 from VN G2</h2>
 <center>
 <a href="{{ url('/reniecs/create') }}" class="btn btn-primary btn-lg my-4 shadow"  >
 AGREGAR PERSONAS
 </a>
 
 </rp></center>
+"Git push to master
 
 <table class="table table-responsive table-hover shadow-lg">
 	<thead class="table-dark bg-primary">
